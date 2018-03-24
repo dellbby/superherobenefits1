@@ -212,7 +212,7 @@ function clear_results(form) {
  
  </td>
  <td align="center" >
- <input type="text" name="percent" size="15" onKeyUp="clear_results(this.form)" /> 
+ <input type="text" name="percent" size="15" onKeyUp="clear_results(this.form)" /> 2.5
  </td>
  </tr>
 
