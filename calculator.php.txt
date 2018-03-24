@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Realtor Commission Calculator</title>
+<title>Commission Calculator</title>
 <link rel="shortcut icon" href="https://calculator.me/images/favicon.ico">
 <link rel="icon" href="https://calculator.me/favicon.ico" type="image/x-icon">
 
